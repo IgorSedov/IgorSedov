@@ -1,14 +1,12 @@
 ### Hi 👋, I'm Igor
 
-- :movie_camera: I'm currently working on **Angular 17 Tutorial** for [YouTube](https://www.youtube.com/@theigorsedov)
-- :computer: I'm currently working on web development technologies like JavaScript, Angular, TypeScript, etc.
+- :movie_camera: I'm currently creating Angular videos and tutorials on [YouTube](https://www.youtube.com/@theigorsedov)
 
 ### My Tutorials on YouTube
 
-- [JavaScript Tutorial for Beginners](https://youtu.be/NL62xPzU1So) (6 hours, free)
-- TypeScript Tutorial for Beginners (2 hours, free)
-- Angular Signals (coming soon)
-- Angular 17 Tutorial for Beginners
+- [Understand Angular Signals in 20 Minutes](https://youtu.be/0jdyzCHzPxo) (20 min)
+- [TypeScript Tutorial for Beginners](https://youtu.be/2kBjtkrjeDM) (2 hours)
+- [JavaScript Tutorial for Beginners](https://youtu.be/NL62xPzU1So) (6 hours)
 
 ### Connect with me
 
