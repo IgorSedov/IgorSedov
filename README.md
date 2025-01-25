@@ -4,6 +4,7 @@ I’m a Full-Stack Developer and the creator of [Angular tutorials](https://www.
 
 ### New Features in Angular on YouTube ▶️
 
+- [Angular 19: linkedSignal Feature for Dependent State](https://youtu.be/CjBoh0R1tK4)
 - [Angular 19 New Feature: Resource API for Async Operations](https://youtu.be/WWYi4NvnFOQ)
 - [Angular: New Local Template Variables with the @let Syntax](https://youtu.be/yYIyKh_35lA)
 - [New in Angular 18: Unified Control State Change Events for Forms](https://youtu.be/v7r-7PHaEtY)
@@ -20,7 +21,7 @@ I’m a Full-Stack Developer and the creator of [Angular tutorials](https://www.
 - YouTube: [@theigorsedov](https://www.youtube.com/@theigorsedov)
 - LinkedIn: [@igorsedov](https://www.linkedin.com/in/igorsedov/)
 - Twitter: [@theigorsedov](https://twitter.com/theigorsedov)
-- Bluesky: [@theigorsedov.bsky.social](https://bsky.app/profile/theigorsedov.bsky.social)
+- Bluesky: [@igorsedov.com](https://bsky.app/profile/igorsedov.com))
 - Reddit: [IgorSedov](https://www.reddit.com/user/IgorSedov/)
 
 ### How to reach me 💬
