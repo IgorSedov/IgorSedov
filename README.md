@@ -21,7 +21,7 @@ I’m a Full-Stack Developer and the creator of [Angular tutorials](https://www.
 - YouTube: [@theigorsedov](https://www.youtube.com/@theigorsedov)
 - LinkedIn: [@igorsedov](https://www.linkedin.com/in/igorsedov/)
 - Twitter: [@theigorsedov](https://twitter.com/theigorsedov)
-- Bluesky: [@igorsedov.com](https://bsky.app/profile/igorsedov.com))
+- Bluesky: [@igorsedov.com](https://bsky.app/profile/igorsedov.com)
 - Reddit: [IgorSedov](https://www.reddit.com/user/IgorSedov/)
 
 ### How to reach me 💬
